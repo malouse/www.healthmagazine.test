@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Recipes & Tips were successfully downloaded!
+MAX EXECUTION TIME = 600
+Files info:
+Site URL = http://www.healthmagazine.test
+Data file = C:\Users\malouse\Documents\Websites\www.healthmagazine.test/wp-content/uploads/2018/12/demo-content-import-file_2018-12-22__22-14-46.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+---Importing content---
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---pt-ocdi/before_widgets_import---
+
+
+---Completed---
+The Demo has been imported in 162.28156399727econds.
